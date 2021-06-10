@@ -2,6 +2,8 @@
 
 ![preview image](https://user-images.githubusercontent.com/57900722/121591431-657f9380-ca31-11eb-84bb-ef23ffb06f04.gif)
 
+show project [now!](https://calender-vue-js.netlify.app/)  `Enjoy`
+
 ## Project setup
 ```
 npm install
