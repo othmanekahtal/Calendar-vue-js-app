@@ -1,4 +1,4 @@
-# learn-vue
+# Calendar UI app
 
 ## Project setup
 ```
